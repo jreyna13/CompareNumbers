@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Javier Reyna EG1305A 02/12/2015
 
 import java.util.Scanner;
